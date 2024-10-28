@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-  background-color: rgb(179, 154, 154);
+  background-color: rgb(182, 149, 189);
   width: 90%;
   max-width: 800px;
 
@@ -64,7 +64,7 @@ body {
 }
 
 .button {
-  background-color: #646d7c;
+  background-color: #796281;
   color: #ffffff;
   font-size: 16px;
   font-weight: bold;
